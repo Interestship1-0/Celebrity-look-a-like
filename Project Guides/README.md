@@ -26,7 +26,7 @@ $ pip3 install scikit-learn
     *Show your creativity, folks !*
     5. Write frame in the output video and display the frame for your reference
     6. Upload the output video on drive
-
+# Steps for building FR Project
 Session-1:
 Getting Acquiented with CNN networks
 For that build CNN Network for Hand_written_Digit_recognization
