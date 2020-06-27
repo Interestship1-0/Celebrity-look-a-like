@@ -57,11 +57,14 @@ Here we have used Face_regonition_api for building the pipeline for it has 2 mod
 I have implemented both the models:
 
   1.The Feature_Extraction_with_small_model.ipynb has small model for feature extraction of dataset and it would
-generate celeb_embb.pickle file 
+generate celeb_embb.pickle file
+
   2.Similairy,Feature_Extraction_with_large_model.ipynb has large model for feature extraction of dataset and it would
 generate celeb_embb_lage.pickle file
+
   3.Further for pipeline FR_with_Eucldien_Distance_5_point_model.ipynb has Face_Recognition API and we measure a distance
 with Euclidien Distance for further more accuracy i have used SVM Classifier in API it is in file
 FR_with_SVM_Classifier.ipynb
+
   4.There is also a  pipeline FR_with_Eucldien_Distance_68_point_model.ipynb has Face_Recognition API and we measure a distance
 with Euclidien Distance.
