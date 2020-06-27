@@ -54,7 +54,8 @@ Here we have used Face_regonition_api for building the pipeline for it has 2 mod
 2. large model of 68 point predictor
 
 
-I have implemented both the models
+I have implemented both the models:
+
   1.The Feature_Extraction_with_small_model.ipynb has small model for feature extraction of dataset and it would
 generate celeb_embb.pickle file 
   2.Similairy,Feature_Extraction_with_large_model.ipynb has large model for feature extraction of dataset and it would
